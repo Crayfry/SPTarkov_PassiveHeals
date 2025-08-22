@@ -15,4 +15,4 @@ Can be configed (F12 in game) to specify the amount of healing, the timer betwee
 Designed to be used with SPTRealism to simulate the "natural" healing of the human body.
 
 
-Note: there is no ingame indicator for the healing passive, your limb health will magically go back.
+Note: there is no ingame indicator for the healing passive, your limb health will magically go up.
